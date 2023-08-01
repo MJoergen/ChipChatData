@@ -1,0 +1,16 @@
+.DS_Store
+.idea
+.vscode
+*.vcd
+runs
+src/sim_build
+src/__pycache__/
+src/results.xml
+src/user_config.tcl
+a.out
+TEST_PASSES.txt
+*.bak
+primitives.v
+sky130_fd_sc_hd.v
+*.pyc
+*.zip
